@@ -1,0 +1,311 @@
+📘 PROJECT EVALUATION (1–10)
+
+1. Project evaluation ka main aim kya hai?
+A) Coding
+B) Feasibility check ✅
+C) Testing
+D) Deployment
+
+👉 Project start se pehle feasibility check hoti hai
+
+2. Strategic assessment kis se related hai?
+A) Cost
+B) Technology
+C) Company goals ✅
+D) Time
+
+3. Technical assessment kya check karta hai?
+A) Budget
+B) Feasibility of technology ✅
+C) Profit
+D) Risk
+
+4. Cost Benefit Analysis me kya compare hota hai?
+A) Time vs Cost
+B) Cost vs Benefit ✅
+C) Risk vs Cost
+D) Work vs Time
+
+5. Cash flow forecasting kya batata hai?
+A) Coding error
+B) Future money flow ✅
+C) Team size
+D) Risk
+
+6. Agar benefit > cost ho to project?
+A) Reject
+B) Accept ✅
+C) Delay
+D) Stop
+
+7. NPV positive ho to kya kare?
+A) Reject
+B) Accept ✅
+C) Ignore
+D) Delay
+
+8. IRR kya batata hai?
+A) Time
+B) Cost
+C) Profit rate ✅
+D) Risk
+
+9. Payback period kya hai?
+A) Profit
+B) Investment recovery time ✅
+C) Risk
+D) Cost
+
+10. Strategic mismatch ka example kya hai?
+A) AI company AI project
+B) AI company website project ✅
+C) Web company website
+D) Startup app
+
+🧠 📘 ACTIVITY PLANNING (11–25)
+
+11. Project schedule kya hota hai?
+A) Budget
+B) Timetable ✅
+C) Risk
+D) Contract
+
+12. Sequencing ka matlab kya hai?
+A) Cost
+B) Order of tasks ✅
+C) Time
+D) Risk
+
+13. Scheduling ka matlab kya hai?
+A) Task order
+B) Task timing ✅
+C) Budget
+D) Risk
+
+14. Network planning models ka example?
+A) HTML
+B) PERT/CPM ✅
+C) CSS
+D) SQL
+
+15. Forward pass kya nikalta hai?
+A) Latest time
+B) Earliest time ✅
+C) Cost
+D) Risk
+
+16. Backward pass kya nikalta hai?
+A) Earliest time
+B) Latest time ✅
+C) Cost
+D) Risk
+
+17. Float ka matlab kya hai?
+A) Profit
+B) Extra time ✅
+C) Risk
+D) Cost
+
+18. Float = ?
+A) ES - LS
+B) LS - ES ✅
+C) EF - ES
+D) LF - LS
+
+19. Critical path kya hota hai?
+A) Highest cost
+B) Zero float path ✅
+C) Longest delay
+D) Risk path
+
+20. AOA me arrow kya show karta hai?
+A) Event
+B) Activity ✅
+C) Cost
+D) Risk
+
+21. Node kya show karta hai?
+A) Activity
+B) Event ✅
+C) Cost
+D) Risk
+
+22. Project duration kaise reduce karte hai?
+A) Delay
+B) Extra resources ✅
+C) Stop work
+D) Reduce team
+
+23. Parallel execution kya hai?
+A) Same task
+B) Multiple tasks together ✅
+C) Delay
+D) Risk
+
+24. CPM ka use kya hai?
+A) Coding
+B) Critical path find karna ✅
+C) Design
+D) Testing
+
+25. PERT ka use kab hota hai?
+A) Fixed time
+B) Uncertain time ✅
+C) Coding
+D) Cost
+
+🧠 📘 RISK MANAGEMENT (26–35)
+
+26. Risk kya hota hai?
+A) Certain
+B) Uncertain problem ✅
+C) Profit
+D) Task
+
+27. Hazard kya hota hai?
+A) Solution
+B) Danger source ✅
+C) Cost
+D) Benefit
+
+28. Risk management ka first step?
+A) Control
+B) Identification ✅
+C) Planning
+D) Testing
+
+29. Technical risk example?
+A) Budget
+B) Technology failure ✅
+C) Delay
+D) Market
+
+30. Financial risk kya hai?
+A) Delay
+B) Budget problem ✅
+C) Team issue
+D) Tech issue
+
+31. Schedule risk kya hai?
+A) Budget
+B) Delay ✅
+C) Tech
+D) Team
+
+32. Resource risk kya hai?
+A) Market
+B) Team issue ✅
+C) Budget
+D) Delay
+
+33. Risk analysis kya karta hai?
+A) Identify
+B) Evaluate impact ✅
+C) Remove
+D) Ignore
+
+34. Risk control kya karta hai?
+A) Create risk
+B) Reduce impact ✅
+C) Increase cost
+D) Delay
+
+35. External risk example?
+A) Team leave
+B) Government rule change ✅
+C) Coding error
+D) Budget
+
+🧠 📘 MONITORING & CONTROL (36–45)
+
+36. Monitoring kya hai?
+A) Coding
+B) Tracking progress ✅
+C) Testing
+D) Design
+
+37. Control kya hai?
+A) Ignore
+B) Fix problem ✅
+C) Delay
+D) Stop
+
+38. Data collection kya karta hai?
+A) Guess
+B) Real info collect ✅
+C) Ignore
+D) Delete
+
+39. Visualization kya hai?
+A) Code
+B) Graph/chart show ✅
+C) Risk
+D) Cost
+
+40. Cost monitoring kya check karta hai?
+A) Time
+B) Budget control ✅
+C) Risk
+D) Team
+
+41. Earned Value kya hai?
+A) Planned work
+B) Completed work value ✅
+C) Cost
+D) Risk
+
+42. PV kya hai?
+A) Planned Value ✅
+B) Profit Value
+C) Project Value
+D) Present Value
+
+43. AC kya hai?
+A) Actual Cost ✅
+B) Average Cost
+C) Added Cost
+D) Approx Cost
+
+44. Change control ka purpose?
+A) Coding
+B) Manage changes ✅
+C) Delay
+D) Risk
+
+45. Prioritizing monitoring ka matlab?
+A) All same
+B) Important tasks focus ✅
+C) Ignore
+D) Delay
+
+🧠 📘 CONTRACTS (46–50)
+
+46. Contract kya hai?
+A) Code
+B) Legal agreement ✅
+C) Plan
+D) Risk
+
+47. Fixed price contract me risk kis par hota hai?
+A) Client
+B) Developer ✅
+C) Team
+D) Manager
+
+48. Time & Material contract ka basis kya hai?
+A) Fixed
+B) Time & resources ✅
+C) Profit
+D) Risk
+
+49. Cost plus contract kya hai?
+A) Fixed
+B) Cost + profit ✅
+C) Time
+D) Risk
+
+50. Contract ka last stage kya hai?
+A) Planning
+B) Execution
+C) Acceptance ✅
+D) Design
