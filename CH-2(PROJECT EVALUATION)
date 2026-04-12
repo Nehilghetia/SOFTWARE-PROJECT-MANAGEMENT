@@ -1,0 +1,146 @@
+📘 PROJECT EVALUATION
+
+👉 Project Evaluation ka matlab:
+“Project start karne se pehle check karna ki yeh project sahi hai ya nahi”
+
+✔ Check karte hai:
+Useful hai ya nahi
+Profit milega ya nahi
+Risk kitna hai
+
+📌 1. Strategic Assessment
+
+👉 Ye check karta hai:
+“Project company ke goals ke saath match karta hai ya nahi”
+
+✔ Questions:
+Company ko fayda hoga?
+Long-term growth me help karega?
+Market me demand hai?
+🎯 Example:
+
+Agar company AI product banana chahti hai
+aur tum website bana rahe ho → ❌ match nahi
+
+👉 Simple:
+“Project company ki strategy ke according hai ya nahi”
+
+📌 2. Technical Assessment
+
+👉 Ye check karta hai:
+“Project technically possible hai ya nahi”
+
+✔ Check:
+Technology available hai?
+Team skilled hai?
+Tools sahi hai?
+🎯 Example:
+AI app banana hai but team ko AI nahi aata → ❌ problem
+
+👉 Simple:
+“Hum ye project bana sakte hai ya nahi”
+
+📌 3. Cost Benefit Analysis
+
+👉 Compare karta hai:
+“Kitna cost lagega vs kitna benefit milega”
+
+✔ Formula (simple):
+Benefit > Cost → ✔ Good project
+Cost > Benefit → ❌ Not good
+
+🎯 Example:
+Cost = ₹50,000
+Benefit = ₹1,50,000 → ✔ profitable
+
+👉 Simple:
+“Fayda zyada hai ya kharcha?”
+
+📌 4. Cash Flow Forecasting
+
+👉 Ye batata hai:
+“Future me paise kab aayenge aur kab jayenge”
+
+✔ Includes:
+Incoming money (Revenue)
+Outgoing money (Expenses)
+🎯 Example:
+Month 1 → -₹20,000 (investment)
+Month 3 → +₹50,000 (profit)
+
+👉 Simple:
+“Future me paisa flow ka prediction”
+
+📌 5. Cost Benefit Evaluation Techniques
+
+Ye methods use hote hai decision lene ke liye 👇
+
+🔹 1. Payback Period
+
+👉 Kitne time me investment recover hoga
+
+🎯 Example:
+Invest ₹1,00,000
+Return ₹25,000/year
+→ Payback = 4 years
+
+👉 Short payback = ✔ better
+
+🔹 2. Net Present Value (NPV)
+
+👉 Future money ka current value calculate karta hai
+
+👉 Simple:
+“Aaj ka paisa future ke paisa se zyada valuable hota hai”
+
+✔ NPV > 0 → ✔ Good project
+✔ NPV < 0 → ❌ Reject
+
+🔹 3. Internal Rate of Return (IRR)
+
+👉 Expected profit rate (%) batata hai
+
+✔ Higher IRR → ✔ better project
+
+👉 Simple:
+“Kaunsa project zyada profitable hai decide karna”
+
+📌 6. Risk Evaluation
+
+👉 Risk Evaluation ka matlab:
+“Project me kya problems aa sakti hai”
+
+✔ Types of Risks:
+Technical risk (technology fail)
+Financial risk (loss)
+Time risk (delay)
+Resource risk (team issue)
+🎯 Example:
+Developer leave ho gaya
+Server crash
+Budget increase
+✔ Risk Handling:
+Backup plan
+Extra budget
+Skilled team
+
+👉 Simple:
+“Problems pehle se soch ke ready rehna”
+
+🎯 FINAL SUMMARY (Easy Revision)
+Topic	Simple Meaning
+Strategic Assessment	Company goal match karta hai ya nahi
+Technical Assessment	Possible hai ya nahi
+Cost Benefit Analysis	Fayda vs kharcha
+Cash Flow Forecasting	Future money flow
+Evaluation Techniques	Payback, NPV, IRR
+Risk Evaluation	Problems identify karna
+🚀 Real-Life Example
+
+👉 Tum ek AI Health App bana rahe ho:
+Strategic → Health niche trending ✔
+Technical → Team ko React + AI aata ✔
+Cost → ₹1L, Benefit ₹5L ✔
+Cash Flow → 3 months loss, then profit ✔
+Risk → Server + team issue ⚠
+👉 Final → ✔ Project good
