@@ -1,0 +1,206 @@
+📘 ACTIVITY PLANNING
+👉 Meaning:
+“Project ke kaam (activities) ko plan, order aur time ke according arrange karna”
+
+📌 1. Project Schedule
+
+👉 Schedule = Kaam kab start aur kab finish hoga
+✔ Includes:
+Task list
+Start time
+End time
+Deadlines
+🎯 Example:
+UI Design → 3 days
+Backend → 7 days
+Testing → 2 days
+
+👉 Simple:
+“Project ka timetable”
+
+📌 2. Sequencing and Scheduling Activities
+
+👉 Sequencing = Kaun sa kaam pehle aur kaun baad me
+👉 Scheduling = Kaam kab hoga
+
+🎯 Example:
+Design → pehle
+Development → baad me
+Testing → last
+
+👉 Simple:
+“Kaam ka order + timing fix karna”
+
+📌 3. Network Planning Models
+
+👉 Diagram use karke project plan karna
+✔ Types:
+PERT (Program Evaluation Review Technique)
+CPM (Critical Path Method)
+
+👉 Simple:
+“Graph/diagram se project flow dikhana”
+
+📌 4. Forward Pass
+
+👉 Calculate karta hai:
+“Earliest time kab activity start/finish hogi”
+
+✔ Output:
+ES = Earliest Start
+EF = Earliest Finish
+
+👉 Simple:
+“Sabse jaldi kab kaam ho sakta hai”
+
+📌 5. Backward Pass
+
+👉 Calculate karta hai:
+“Latest time kab tak kaam complete karna chahiye”
+
+✔ Output:
+LS = Latest Start
+LF = Latest Finish
+
+👉 Simple:
+“Late hone se bachne ke liye max limit”
+
+📌 6. Activity Float (Slack)
+
+👉 Float = Extra time available
+
+✔ Formula:
+Float = LS - ES (ya LF - EF)
+
+🎯 Example:
+Activity delay ho sakti hai without affecting project
+
+👉 Simple:
+“Kitna delay allowed hai”
+
+📌 7. Shortening Project Duration
+
+👉 Project ko jaldi finish karna
+✔ Methods:
+Extra resources add karo
+Overtime work
+Parallel tasks
+
+👉 Simple:
+“Project fast complete karna”
+
+📌 8. Activity on Arrow (AOA) Networks
+
+👉 Diagram jisme:
+Arrow = Activity
+Circle (node) = Event
+
+👉 Flow left → right
+👉 Simple:
+
+“Arrow se project activities show karna”
+
+📌 9. Risk Management
+
+👉 Meaning:
+“Project ke risks identify, analyze aur control karna”
+
+📌 10. Nature of Risk
+
+👉 Risk ka nature:
+Uncertain hota hai
+Future me hota hai
+Loss cause kar sakta hai
+
+👉 Simple:
+“Risk = uncertainty + possible loss”
+
+📌 11. Types of Risk
+🔹 Technical Risk
+Technology fail
+🔹 Financial Risk
+Budget problem
+🔹 Schedule Risk
+Delay
+🔹 Resource Risk
+Team issue
+🔹 External Risk
+Market / legal issue
+
+👉 Simple:
+“Alag-alag type ke problems”
+
+📌 12. Managing Risk
+
+👉 Steps:
+Identify risk
+Analyze risk
+Plan solution
+Control risk
+
+👉 Simple:
+“Risk ko handle karna”
+
+📌 13. Hazard Identification
+
+👉 Hazard = Danger source
+👉 Identify:
+
+Kya galat ho sakta hai?
+🎯 Example:
+Server crash
+Data loss
+
+👉 Simple:
+“Danger ko pehle se pehchanna”
+
+📌 14. Hazard Analysis
+
+👉 Analyze:
+Risk kitna serious hai?
+Kitni probability hai?
+
+👉 Simple:
+“Risk ki depth samajhna”
+
+📌 15. Risk Planning and Control
+
+👉 Plan:
+Backup plan
+Extra budget
+Alternative solution
+
+👉 Control:
+Monitor risk
+Reduce impact
+
+👉 Simple:
+“Risk ke liye ready rehna + control karna”
+
+🎯 FINAL SUMMARY (Quick Revision)
+Topic	                    Simple Meaning
+Project Schedule	        Project timetable
+Sequencing	              Kaam ka order
+Scheduling              	Kaam ka time
+Network Models	          Diagram planning
+Forward Pass	            Earliest time
+Backward Pass	            Latest time
+Float	                    Extra time
+Shortening Duration	      Fast completion
+AOA	                      Arrow diagram
+Risk Management	          Risk handle karna
+Types of Risk	            Different problems
+Hazard	                  Danger source
+Risk Control	            Risk manage karna
+
+🚀 Real-Life Example
+
+👉 Tum ek academy website bana rahe ho:
+Sequence → Design → Code → Test
+Schedule → 10 days total
+Float → Testing delay 1 day allowed
+Risk → Developer absent
+
+👉 Solution:
+Backup dev
+Extra time
