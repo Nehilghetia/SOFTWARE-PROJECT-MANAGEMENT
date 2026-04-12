@@ -1,0 +1,206 @@
+📘 MONITORING AND CONTROL
+👉 Meaning:
+“Project chal raha hai usko check karna aur agar problem aaye to correct karna”
+
+✔ Monitor = Track karna
+✔ Control = Fix karna
+
+📌 1. Creating Framework
+
+👉 Framework = Monitoring ka structure/system
+✔ Includes:
+Rules set karna
+Tools decide karna (Excel, Jira)
+Reporting system
+
+👉 Simple:
+“Project ko track karne ka system banana”
+
+📌 2. Collecting the Data
+
+👉 Project se data collect karna:
+✔ Data:
+Progress %
+Time spent
+Cost used
+
+🎯 Example:
+50% work done
+5 days used
+
+👉 Simple:
+“Project ki real information lena”
+
+📌 3. Visualizing Progress
+
+👉 Data ko graph/chart me dikhana
+✔ Tools:
+Charts
+Dashboards
+
+👉 Simple:
+“Progress ko clearly dekhna”
+
+📌 4. Cost Monitoring
+
+👉 Check:
+“Budget ke andar kaam ho raha hai ya nahi”
+
+🎯 Example:
+Budget ₹1,00,000
+Used ₹80,000
+
+👉 Simple:
+“Paise control me hai ya nahi”
+
+📌 5. Earned Value (EV)
+
+👉 Important concept 👇
+👉 Earned Value = Kitna kaam complete hua uski value
+
+📊 3 Terms:
+PV (Planned Value) → Plan ke according value
+AC (Actual Cost) → Real cost
+EV (Earned Value) → Completed work value
+
+✔ Use:
+Project ahead hai ya delay?
+Budget over hai ya under?
+
+👉 Simple:
+“Kitna kaam hua vs kitna hona tha”
+
+📌 6. Prioritizing Monitoring
+
+👉 Sab kaam important nahi hote
+✔ Focus:
+Critical tasks
+High-risk areas
+
+👉 Simple:
+“Important cheezon pe zyada focus”
+
+📌 7. Getting Project Back to Target (Change Control)
+
+👉 Agar project delay ya problem me hai:
+✔ Actions:
+Plan change karo
+Resources increase karo
+Scope adjust karo
+
+👉 Simple:
+“Project ko wapas track pe lana”
+
+📌 8. Managing Contracts
+
+👉 Client ke contract ko handle karna
+✔ Ensure:
+Terms follow ho rahe hai
+Payment time pe mile
+
+👉 Simple:
+“Contract properly manage karna”
+
+📌 9. Introduction (Contracts)
+
+👉 Contract = Legal agreement between client & company
+
+📌 10. Types of Contract
+🔹 Fixed Price Contract
+
+👉 Fixed amount
+✔ Risk developer pe
+🔹 Time & Material Contract
+
+👉 Time ke basis pe payment
+✔ Flexible
+🔹 Cost Plus Contract
+
+👉 Cost + profit margin
+✔ Safe for developer
+
+👉 Simple:
+“Different payment models”
+
+📌 11. Stages in Contract
+
+✔ Steps:
+Requirement discussion
+Negotiation
+Agreement sign
+Execution
+Completion
+
+👉 Simple:
+“Contract ka full lifecycle”
+
+📌 12. Placement
+
+👉 Contract final karna aur start karna
+👉 Simple:
+“Deal finalize karna”
+
+📌 13. Typical Terms of a Contract
+
+✔ Includes:
+Scope of work
+Cost
+Timeline
+Payment terms
+Penalty clause
+
+👉 Simple:
+“Contract ke rules aur conditions”
+
+📌 14. Contract Management
+
+👉 Ensure:
+Work as per contract ho
+Changes properly handle ho
+
+👉 Simple:
+“Contract follow karwana”
+
+📌 15. Acceptance
+
+👉 Final stage:
+✔ Client check karega:
+Software sahi hai?
+Requirements meet hui?
+
+✔ Then:
+Approval / sign-off
+
+👉 Simple:
+“Client final OK deta hai”
+
+🎯 FINAL SUMMARY (Quick Revision)
+
+Topic	Simple               Meaning
+Monitoring	               Track karna
+Control	                   Problem fix karna
+Framework	                 Tracking system
+Data Collection	           Real info lena
+Visualization	             Graph me dikhana
+Cost Monitoring	           Budget check
+Earned Value	             Work vs plan
+Change Control	           Track pe lana
+Contracts	                 Legal agreement
+Types	                     Fixed, Time, Cost+
+Stages	                   Start → End
+Acceptance	               Client approval
+
+🚀 Real-Life Example
+
+👉 Tum ek academy website project kar rahe ho:
+Monitoring → Daily progress check
+Cost → Budget ₹50k
+EV → 70% work done
+Problem → Delay
+
+👉 Solution:
+Extra developer add
+Timeline adjust
+
+👉 End:
+✔ Client satisfied → Acceptance done
