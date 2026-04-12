@@ -1,0 +1,137 @@
+📘 INTRODUCTION TO SOFTWARE PROJECT MANAGEMENT
+Software Project Management (SPM) ka matlab hai software project ko plan, manage aur complete karna — time, cost aur quality ke andar.
+
+👉 Simple language:
+“Software banane ka poora process manage karna = SPM”
+
+📌 1. Project Definition
+
+Project kya hota hai?
+👉 Project = Temporary kaam + specific goal
+
+✔ Key Points:
+Start aur end hota hai
+Ek clear objective hota hai
+Unique output deta hai (e.g., website, app)
+🎯 Example:
+College management system banana
+E-commerce website banana
+
+👉 Simple:
+“Ek limited time me specific kaam complete karna = Project”
+
+📌 2. Contract Management
+
+Contract Management ka matlab hai:
+👉 Client aur developer ke beech agreement handle karna
+✔ Isme kya hota hai:
+Project scope define karna
+Budget fix karna
+Timeline decide karna
+Terms & conditions likhna
+🎯 Example:
+Client bolta hai:
+Website 30 days me chahiye
+Budget ₹50,000
+
+👉 Tum contract banaoge:
+Work kya hoga
+Payment kaise milega
+Delay hua toh kya hoga
+
+👉 Simple:
+“Client aur company ke beech ka legal agreement manage karna”
+
+📌 3. Activities Covered by Software Project Management
+
+SPM me kaun-kaun se kaam aate hai 👇
+
+🔹 1. Planning
+Kya banana hai?
+Kaise banana hai?
+🔹 2. Scheduling
+Kaam kab hoga?
+🔹 3. Resource Management
+Team, tools, budget manage
+🔹 4. Risk Management
+Problem kya aa sakti hai?
+🔹 5. Quality Management
+Software sahi kaam kar raha hai?
+🔹 6. Communication
+Team aur client ke beech baat
+
+👉 Simple:
+“Project ko start se end tak control karne ke saare kaam”
+
+📌 4. Overview of Project Planning
+
+Project Planning = Project ka roadmap banana
+✔ Planning me kya hota hai:
+Requirements samajhna
+Time estimate karna
+Cost calculate karna
+Team assign karna
+🎯 Example:
+
+Agar tum app bana rahe ho:
+Design → 5 days
+Backend → 10 days
+Testing → 5 days
+
+👉 Simple:
+“Kaam shuru karne se pehle pura plan banana”
+
+📌 5. Stepwise Project Planning
+
+Ye ek structured method hai project plan karne ka 👇
+🧩 Steps:
+1. Identify Scope
+👉 Project me kya include hai?
+👉 Kya nahi hai?
+2. Identify Objectives
+👉 Goal kya hai?
+Example:
+Fast website
+Secure login
+3. Identify Project Infrastructure
+👉 Tools & technology:
+React, Node.js, Database
+4. Identify Products & Activities
+👉 Kya deliver karna hai?
+UI
+API
+Database
+5. Estimate Effort
+👉 Kitna time lagega?
+
+6. Identify Risks
+👉 Problems kya aa sakti hai?
+Server down
+Developer leave
+7. Allocate Resources
+
+👉 Kaun kya karega?
+Frontend dev
+Backend dev
+8. Review & Final Plan
+
+👉 Sab check karo → final plan ready
+
+👉 Simple:
+“Step-by-step plan bana ke project ko smooth banana”
+
+🎯 FINAL SUMMARY (Easy Revision)
+
+Topic	                            Simple Meaning
+Project Definition	              Limited time me goal achieve karna
+Contract Management	              Client agreement handle karna
+SPM Activities	                  Planning, scheduling, risk, quality
+Project Planning                 	Kaam ka roadmap banana
+Stepwise Planning	                Step-by-step planning process
+
+🚀 Real-Life Example (Short)
+👉 Tum ek academy website bana rahe ho:
+Project → Website
+Contract → ₹30,000 + 20 days
+Planning → UI + Backend + Testing
+Stepwise → Scope → Time → Team → Delivery
