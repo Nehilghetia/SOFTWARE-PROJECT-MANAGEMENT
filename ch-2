@@ -1,0 +1,248 @@
+1) Strategic Assessment:-
+
+defination :-Strategic Assessment in project evaluation means analyzing whether a project aligns with the organization’s long-term goals, vision, and competitive strategy. It ensures the project is not only feasible but also strategically valuable.
+
+🔹 Key Objectives
+Check alignment with business goals
+Ensure long-term benefits
+Identify competitive advantage
+Support decision-making
+
+🔹 Example
+
+A company planning to build an e-commerce website:
+✔ Aligns with digital expansion strategy
+✔ Meets growing online shopping demand
+✔ Provides competitive advantage
+
+🔹 Advantages
+Better decision making
+Reduces project failure
+Ensures long-term success
+Efficient use of resources
+
+🔹 Disadvantages
+Time-consuming
+Requires expert analysis
+May involve uncertainty 
+
+2) Technical Assessment:-
+
+defination:-Technical Assessment is the process of evaluating whether a project is technically feasible—i.e., 
+            whether the required technology, tools, skills, and infrastructure are available to successfully complete the project.
+
+🔹 Objectives
+Check technical feasibility
+Identify technology requirements
+Ensure availability of resources & skills
+Reduce technical risks 
+
+🔹 Process
+Identify technical requirements
+Analyze available technology & tools
+Evaluate team skills
+Assess risks & limitations
+Decide feasibility
+
+🔹 Example
+Building a Mutual Fund Web App (Next.js + Supabase):
+✔ Technology available (Next.js, database)
+✔ Team skilled in React
+✔ Cloud hosting possible
+✔ APIs for financial data available
+
+🔹 Advantages
+Reduces technical failure
+Improves project quality
+Helps in better planning
+Ensures smooth implementation
+
+🔹 Disadvantages
+Requires expert knowledge
+Time-consuming
+Rapid tech changes can affect decisions
+
+3) Cost–Benefit Analysis:- 
+
+defination :-Cost–Benefit Analysis (CBA) is a technique used to compare the total expected costs of a project with its total expected benefits to determine whether the project is worthwhile.
+
+🔹 Objective
+Decide if project is profitable or not
+Support investment decisions
+Ensure maximum return with minimum cost
+
+1. Types of Costs
+Direct Costs – Development, hardware, software
+Indirect Costs – Training, maintenance
+One-time Costs – Setup cost
+Recurring Costs – Monthly hosting, salaries
+  
+2. Types of Benefits
+Tangible Benefits – Revenue, cost savings
+Intangible Benefits – Brand value, customer satisfaction
+Short-term Benefits – Immediate profit
+Long-term Benefits – Future growth
+
+3. Key Methods
+Payback Period – Time required to recover investment
+Net Present Value (NPV) – Present value of benefits minus costs
+Return on Investment (ROI) – Profit earned from investment
+
+4. Process
+Identify all costs
+Identify all benefits
+Convert into monetary value
+Compare costs and benefits
+Make decision 
+
+🔹 Example
+
+Project: E-commerce Website Development
+Cost = ₹1,00,000
+Expected Benefit = ₹1,50,000
+👉 Profit = ₹50,000
+👉 ROI = 50% (project is beneficial)
+
+🔹 Advantages
+Helps in decision making
+Simple and clear method
+Improves financial planning
+
+🔹 Disadvantages
+Difficult to measure intangible benefits
+Future estimates may be inaccurate
+Time-consuming
+
+4) Cash Flow Forecasting:- 
+
+defination:-Cash Flow Forecasting is the process of estimating the inflow (cash coming in) and outflow (cash going out) of money in a project over a specific period of time.
+
+🔹 Objectives
+Ensure enough cash availability
+Avoid cash shortages
+Support financial planning
+Improve decision-making
+
+🔹 Process
+Estimate cash inflows
+Estimate cash outflows
+Calculate net cash flow
+Analyze monthly/yearly trends
+Plan for surplus or shortage
+
+🔹 Example
+
+Month 1:
+Inflow = ₹50,000
+Outflow = ₹30,000
+👉 Net Cash Flow = ₹20,000 (positive)
+
+Month 2:
+Inflow = ₹20,000
+Outflow = ₹40,000
+👉 Net Cash Flow = -₹20,000 (negative)
+
+🔹 Advantages
+Helps manage finances
+Prevents cash shortage
+Improves budgeting
+Supports better planning
+
+🔹 Disadvantages
+Depends on estimates
+May be inaccurate
+Time-consuming
+
+5) Cost–Benefit Evaluation Techniques:- 
+
+  defination :-Cost–Benefit Evaluation Techniques are methods used to compare project costs and benefits to decide whether the project is financially viable and worth investing in.
+
+1. Payback Period
+Time required to recover the initial investment
+
+📌 Example
+Investment = ₹1,00,000
+Annual Return = ₹25,000
+👉 Payback Period = 4 years
+  
+2. Net Present Value (NPV)
+Difference between present value of cash inflows and outflows
+
+📌 Decision Rule
+NPV > 0 → Accept project
+NPV < 0 → Reject project
+
+3. Return on Investment (ROI)
+Measures profitability of investment
+
+4. Benefit–Cost Ratio (BCR)
+Ratio of total benefits to total costs
+
+📌 Decision Rule
+BCR > 1 → Accept
+BCR < 1 → Reject
+  
+5. Internal Rate of Return (IRR)
+Rate at which NPV becomes zero
+
+📌 Decision Rule
+IRR > Required rate → Accept
+IRR < Required rate → Reject
+
+🔹 Advantages
+Helps in better financial decisions
+Easy comparison of multiple projects
+Improves investment planning
+
+🔹 Disadvantages
+Based on estimates
+Complex calculations (NPV, IRR)
+Ignores non-financial factors sometimes
+
+6) Risk Evaluation:- 
+
+defination:- Risk Evaluation is the process of identifying, analyzing, and assessing potential risks in a project to minimize their impact and ensure project success.
+
+🔹 Objectives
+Identify possible risks
+Analyze impact and probability
+Reduce uncertainty
+Support better decision-making
+  
+🔹 Types of Risks
+Technical Risk – New or complex technology may fail
+Financial Risk – Budget issues or cost overruns
+Schedule Risk – Project delays
+Operational Risk – Process or system failures
+Market Risk – Changes in demand or competition
+Legal Risk – Regulatory or compliance issues
+
+🔹 Risk Evaluation Process
+Identify risks
+Analyze likelihood (probability)
+Assess impact (severity)
+Prioritize risks
+Plan mitigation strategies
+
+🔹 Risk Assessment Matrix
+High Probability + High Impact → Critical Risk
+Low Probability + High Impact → Major Risk
+High Probability + Low Impact → Moderate Risk
+Low Probability + Low Impact → Low Risk 
+
+🔹 Example
+Project: E-commerce Website
+Risk: Server crash during high traffic
+Impact: Loss of customers and revenue
+Solution: Use scalable cloud hosting
+
+🔹 Advantages
+Reduces project failure
+Improves planning
+Helps in decision making
+Increases project success rate
+
+🔹 Disadvantages
+Time-consuming
+Not all risks can be predicted
+Requires expert judgment
