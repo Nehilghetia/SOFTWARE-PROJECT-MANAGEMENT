@@ -1,0 +1,169 @@
+1) Project Definition
+
+Definition :-A software project is a temporary effort to design, develop, test, and deliver a software product within given time, cost, and scope.
+
+It has:
+A start and end date
+A specific goal
+Limited resources (time, cost, people)
+
+💡 Example
+
+👉 Example: Online Food Delivery App
+Goal: Build an app like Zomato
+Start Date: 1 Jan 2026
+End Date: 30 June 2026
+Team: Developers, designers, testers
+Features: Login, restaurant listing, order system, payment
+
+2) Contract Management (Software Project Management)
+
+defination :-Contract Management is the process of creating, managing, and controlling agreements (contracts) between a client and a software development company.
+
+It ensures that:
+Work is done as per agreement
+Payment, timeline, and scope are followed properly
+
+💡 Example
+
+👉 A company hires a software firm to build an app like Swiggy
+Client: Restaurant company
+Vendor: Software development company
+Contract includes:
+Cost: ₹5,00,000
+Time: 4 months
+Features: Order system, payment, tracking
+
+➡️ Contract Management ensures:
+Work is delivered on time
+Payment is done as per milestones
+Any changes are properly handled
+
+3) Activities Covered by Software Project Management
+
+defination :-Software Project Management (SPM) includes all activities required to plan, execute, monitor, and complete a software project successfully.
+
+🔑 Main Activities:-
+
+1. 📋 Project Planning
+Define goals, scope, and requirements
+Create project plan (time, cost, resources)
+👉 Example: Planning features for an app like Zomato
+
+2. ⏳ Scheduling
+Decide timeline and deadlines
+Use tools like Gantt chart
+
+3. 💰 Cost Estimation
+Estimate total budget
+Calculate cost of developers, tools, etc.
+
+4. 👥 Resource Management
+Assign team members (developers, testers)
+Manage workload
+
+5. ⚠️ Risk Management
+Identify possible risks (delay, bugs)
+Plan solutions
+
+6. 🧪 Quality Management
+Ensure software meets standards
+Testing and reviews
+
+7. 📊 Project Monitoring & Control
+Track progress
+Compare planned vs actual work
+
+8. 🔄 Change Management
+Handle changes in requirements
+Update plans accordingly
+
+9. 📢 Communication Management
+Share updates with team and client
+Meetings, reports
+
+10. 📦 Project Closure
+Deliver final product
+Documentation and review
+
+4) Overview of Project Planning
+
+defination :-Project Planning is the process of defining project goals, scope, schedule, resources, and cost to ensure successful software development.
+-> It is the first and most important step, because a good plan helps avoid delays, extra cost, and failures.
+
+💡 Example
+
+👉 Planning a food delivery app like Zomato
+Decide features: Login, search, order, payment
+Timeline: 5 months
+Budget: ₹6,00,000
+Team: 5 developers + 2 testers
+➡️ This complete preparation before development is Project Planning
+
+🔑 Main Steps in Project Planning
+1. 🎯 Define Objectives
+What is the goal of the project?
+
+2. 📦 Define Scope
+What is included and excluded?
+
+3. 📅 Scheduling
+Timeline and deadlines
+
+4. 💰 Cost Estimation
+Budget planning
+
+5. 👥 Resource Planning
+Team and tools required
+
+6. ⚠️ Risk Planning
+Identify possible problems
+
+7. 📊 Quality Planning
+Set quality standards 
+
+🎯 Importance of Project Planning
+Reduces risk
+Saves time and cost
+Improves quality
+Ensures clear direction 
+
+5) Stepwise Project Planning
+
+Definition :-Stepwise Project Planning is a systematic process of planning a project by dividing it into clear steps from objectives to execution.
+
+🔢 Steps in Stepwise Project Planning
+
+1. 🎯 Identify Project Scope & Objectives
+Define what the project will achieve
+👉 Example: Build an app like Swiggy
+
+2. 📌 Identify Project Infrastructure
+Decide tools, technology, hardware, software
+
+3. 📊 Analyze Project Characteristics
+Size, complexity, type of project
+
+4. ⚙️ Identify Products & Activities
+List deliverables (modules, features)
+Break into tasks
+
+5. ⏳ Estimate Effort & Time
+How much time and work is required
+
+6. 💰 Identify Activity Risks
+Find possible risks (delay, cost overrun)
+
+7. 📅 Allocate Resources
+Assign team members and tools
+
+8. 🗓️ Schedule Activities
+Set timeline and deadlines
+
+9. 📄 Review & Finalize Plan
+Check plan and approve
+
+🎯 Importance
+Clear step-by-step planning
+Better control and management
+Reduces errors and risks
